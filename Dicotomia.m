@@ -1,4 +1,4 @@
-% Tarea 3 Optimización
+% Tarea 3 OptimizaciÃ³n
 % 27/10/18 Encontrar raiz por metodo de Dicotomia
 
 % f=x^3/16-27x/4 de [0,10] s=0.001, e=10^-5
@@ -46,7 +46,7 @@ while (ok==0)
     plot(xm,((xm^3)/16)-(27*xm/4),'o','MarkerSize',4,'MarkerEdgeColor','k','MarkerFaceColor','k');
     % Se calcula el error
     Ln=(L0/(2^(n/2)))+(dx*(1-(1/(2^(n/2)))));
-    e=(1/2)*(Ln/L0);     % Despliega el error en esta iteración
+    e=(1/2)*(Ln/L0);     % Despliega el error en esta iteraciÃ³n
 
     % Se evalua si es necesario reprtir el proceso
     if e<=error
