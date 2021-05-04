@@ -1,5 +1,5 @@
 % Tarea 4 Optimización
-% 2/11/18 Minimizar la funcion con Nelderr-Mead
+% 2/11/18 Minimizar la funcion con Nelder-Mead
 clc
 close all
 % f(x1,x2)= x1^2-4x1+x2^2-x2-x1x2
