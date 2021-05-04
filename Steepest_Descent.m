@@ -1,5 +1,5 @@
 % Tarea 5 Optimización
-% 23/11/18 Minimizar la funcion con Steepest-Descent
+% 23/11/18 Minimizar la funcion con Steepest_Descent
 clc
 close all
 % f(x1,x2) = x1-x2+2*(x1^2)+2*(x1*x2)+(x2^2) Ejemplo
