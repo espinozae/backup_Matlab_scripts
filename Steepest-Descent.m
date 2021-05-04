@@ -1,4 +1,4 @@
-% Tarea 5 Optimización
+% Tarea 5 OptimizaciÃ³n
 % 23/11/18 Minimizar la funcion con Steepest-Descent
 clc
 close all
