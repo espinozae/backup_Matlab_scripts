@@ -1,4 +1,4 @@
-% Tarea 4 Optimización
+% Tarea 4 OptimizaciÃ³n
 % 2/11/18 Minimizar la funcion con Nelderr-Mead
 clc
 close all
@@ -163,7 +163,7 @@ while (ok==0)
                     x3=xc;
                 end
             else % Si no mejora a ninguno, se reemplazan todos los puntos
-                 % del simplex por uno de menor tamaño
+                 % del simplex por uno de menor tamaÃ±o
                  x1=(x1+xl)/2;
                  x2=(x2+xl)/2;
                  x3=(x3+xl)/2;
