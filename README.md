@@ -1,8 +1,7 @@
-# some_backup_MSc-Matlab_scripts
-Just to have something about my master of science scripts I did to analyce my mechanical systems oscillators.
+# backup_MSc-Matlab_scripts
+Matlab scripts for reference.
+
+"Dicotomia.m", "Newton-Rapson.m", "Nelder-Mead.m" and "Steepest_Descent.m" scripts are here as a demo to show how I code and document my scripts solvinga a problem in Matlab.
 
 "erick_main_CI_1" is a script that iterates simulations to my mechanical model with diffrent sets of initial conditions,
-it determines if the sistems sinchronice in-phase, anti-phase or if they stop oscillating. It builds a 2D graph to show the regions where certain results are expected.
-
-"Tarea" named scripts contain code that you would expect from me solvinga a problem,
-those cripts are optimization methods that are here as a demo to show how I code and document in Matlab.
+it determines if the sistems synchronize in-phase, anti-phase or if they stop oscillating. It builds a 2D graph to show the regions where certain results are expected.
