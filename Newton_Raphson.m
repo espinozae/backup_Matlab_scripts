@@ -1,4 +1,4 @@
-% Tarea 4 Optimización
+% Tarea 4 OptimizaciÃ³n
 % 29/10/18 Encontrar raiz por metodo de Newton-Raphson
 
 % f=x^2/2-sen(x), e=10^-5
