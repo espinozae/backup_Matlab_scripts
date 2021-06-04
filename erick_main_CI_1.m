@@ -32,8 +32,8 @@ for jj = 1:length(CI1)                                                % LAB
         sim('p_inv_sub_coupled_CI_1')                                        % RUN SIMULATION
         
         t = X(:,1);                                                         % READ TIME
-        X1 = X(:,2);                                                        % READ STATE OF BEAM 1
-        X2 = X(:,3);                                                        % READ STATE OF BEAM 2   
+        X1 = X(:,2);                                                        % READ STATE OF SYST 1
+        X2 = X(:,3);                                                        % READ STATE OF SYST 2   
         
         e_aph = x_diff(:,2);                                                % READ ANTI-PHASE ERROR
         e_ph = x_diff_a(:,2);                                               % READ PHASE ERROR
